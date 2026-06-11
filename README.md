@@ -1,8 +1,4 @@
-# Hi there! I'm Allyn (AzSnowye) 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Seria+Project+Developer;Minecraft+Plugins+Creator;Java+Systems+Developer;Performance+Enthusiast" alt="Typing SVG" />
-</p>
+# Hi there! I'm AzSnowye 👋
 
 ---
 
