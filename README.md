@@ -7,7 +7,6 @@
 I am a passionate software engineer and a **core developer for the Seria Project**, focusing on creating custom Minecraft plugins, automation scripting, and backend server systems. I specialize in building high-performance, robust software solutions primarily using **Java** and **Python**.
 
 - ⚙️ I build and maintain multiple custom plugins and backend scripts tailored for server environments, handling complex logic, automation, and API integrations.
-- 💬 Ask me about Bukkit/Paper API development, Python scripting, JVM performance tuning, and server automation.
 - ⚡ Fun fact: I enjoy writing automations in Python to make server deployment and management a breeze!
 
 ---
