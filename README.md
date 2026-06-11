@@ -58,10 +58,3 @@ I am a passionate software engineer and a **core developer for the Seria Project
   <a href="mailto:azsnowy321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
   <a href="https://github.com/AzSnowye"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moki/moki/master/images/grid.gif" width="100%" height="2px" alt="Line" />
-  <sub>Profile designed with ❤️ by Antigravity</sub>
-</p>
