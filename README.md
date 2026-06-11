@@ -4,12 +4,11 @@
 
 ### 💫 About Me
 
-I am a passionate software engineer and a **core developer for the Seria Project**, focusing on creating custom Minecraft plugins and backend server systems. I specialize in building high-performance, robust gameplay mechanics utilizing the Bukkit/Spigot/Paper API to keep server TPS at a perfect 20.
+I am a passionate software engineer and a **core developer for the Seria Project**, focusing on creating custom Minecraft plugins, automation scripting, and backend server systems. I specialize in building high-performance, robust software solutions primarily using **Java** and **Python**.
 
-- 🔭 I’m currently developing and optimizing server-side systems, including [BlockRegen](https://github.com/AzSnowye/github-profile), a highly configurable block regeneration plugin built for advanced custom items, mining speeds, and hologram displays.
-- ⚙️ I build and maintain multiple custom plugins tailored for server environments, handling complex event listening, resource management, and API integrations.
-- 💬 Ask me about Bukkit/Paper API development, JVM performance tuning, Maven workflows, and Minecraft server architecture.
-- ⚡ Fun fact: I enjoy optimizing mine-loop algorithms to run with `O(1)` or near-zero tick impact!
+- ⚙️ I build and maintain multiple custom plugins and backend scripts tailored for server environments, handling complex logic, automation, and API integrations.
+- 💬 Ask me about Bukkit/Paper API development, Python scripting, JVM performance tuning, and server automation.
+- ⚡ Fun fact: I enjoy writing automations in Python to make server deployment and management a breeze!
 
 ---
 
@@ -18,6 +17,7 @@ I am a passionate software engineer and a **core developer for the Seria Project
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
