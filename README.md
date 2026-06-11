@@ -4,8 +4,10 @@
 
 ### 💫 About Me
 
-I am a passionate software engineer and a **core developer for the Seria Project**, focusing on creating custom Minecraft plugins, automation scripting, and backend server systems. I specialize in building high-performance, robust software solutions primarily using **Java** and **Python**.
+I am a 21-year-old software engineer and college student currently in my 4th semester at **Universitas Bina Sarana Informatika**. I am also a **core developer for the Seria Project**, focusing on creating custom Minecraft plugins, automation scripting, and backend server systems. I specialize in building high-performance, robust software solutions primarily using **Java** and **Python**.
 
+- 🎓 **Education**: College Student at **Universitas Bina Sarana Informatika** (Semester 4)
+- 🎂 **Age**: 21 years old
 - ⚙️ I build and maintain multiple custom plugins and backend scripts tailored for server environments, handling complex logic, automation, and API integrations.
 - ⚡ Fun fact: I enjoy writing automations in Python to make server deployment and management a breeze!
 
